@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\02_InterestCalculator\bin\Debug\02_InterestCalculator.exe.config
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\02_InterestCalculator\bin\Debug\02_InterestCalculator.exe
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\02_InterestCalculator\bin\Debug\02_InterestCalculator.pdb
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\02_InterestCalculator\obj\Debug\02_InterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\02_InterestCalculator\obj\Debug\02_InterestCalculator.exe
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\02_InterestCalculator\obj\Debug\02_InterestCalculator.pdb

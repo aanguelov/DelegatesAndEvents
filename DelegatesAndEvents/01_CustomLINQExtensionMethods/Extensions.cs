@@ -21,7 +21,8 @@ namespace _01_CustomLINQExtensionMethods
         }
 
         public static TSelector Max<TSource, TSelector>(this IEnumerable<TSource> collection,
-            Func<TSource, TSelector> selectFunc) where TSelector : IComparable<TSelector>
+            Func<TSource, TSelector> selectFunc) 
+            where TSelector : IComparable<TSelector>
         {
             var selectors = GetGradesPorperty(collection, selectFunc).ToList();
             TSelector max = selectors[0];
