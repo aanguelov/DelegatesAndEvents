@@ -2,8 +2,10 @@
 {
     public delegate decimal CalculateInterest(decimal sum, decimal rate, int years);
 
-    class InterestCalculator
+    public class InterestCalculator
     {
+        private decimal rate;
+
         public InterestCalculator(decimal sum, decimal rate, int years, CalculateInterest del)
         {
             this.Sum = sum;
@@ -14,7 +16,14 @@
 
         public decimal Sum { get; set; }
 
-        public decimal Rate { get; set; }
+        public decimal Rate
+        {
+            get { return this.rate; }
+            set
+            {
+                this.rate = value;
+            }
+        }
 
         public int Years { get; set; }
 

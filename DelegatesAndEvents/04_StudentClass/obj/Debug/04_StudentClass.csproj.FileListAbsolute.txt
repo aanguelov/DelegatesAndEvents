@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\04_StudentClass\bin\Debug\04_StudentClass.exe.config
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\04_StudentClass\bin\Debug\04_StudentClass.exe
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\04_StudentClass\bin\Debug\04_StudentClass.pdb
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\04_StudentClass\obj\Debug\04_StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\04_StudentClass\obj\Debug\04_StudentClass.exe
+C:\Users\Laptop\Desktop\GitHub\OOP Homeworks\DelegatesAndEvents\DelegatesAndEvents\04_StudentClass\obj\Debug\04_StudentClass.pdb
